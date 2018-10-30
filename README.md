@@ -1,5 +1,4 @@
-# dubbo-test
-dubbo demo
+# dubbo+spring+maven+assembly+官方shell实现jar应用
 项目地址 https://github.com/CongZhouArtist/dubbo-test
 
 dubbo版本2.6.4
